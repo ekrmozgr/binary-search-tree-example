@@ -26,6 +26,26 @@
      
      -Winner of 5 rounds or the highest score at the end of 20 rounds wins the game
       
-     -Postorder traversal is used in this BST
+     -Postorder traversal is used in this BST  
      
      
+
+
+## Trees At The Beginning
+     
+![1](https://user-images.githubusercontent.com/72643454/194718586-3ef5d77e-8ec1-4300-ba3c-3cd28cd1d9e1.png)
+
+
+
+## First Round
+
+![2](https://user-images.githubusercontent.com/72643454/194718703-b6b41f8e-bb3a-4ab4-b171-4865d76949c7.png)  
+  
+  
+
+
+## Trees After The First Round
+
+![3](https://user-images.githubusercontent.com/72643454/194718714-603e9e44-d299-4eb9-a85f-1cb3bde81310.png)
+
+#### And It Keeps Going
