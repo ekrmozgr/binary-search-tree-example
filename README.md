@@ -7,8 +7,8 @@
       
      -Both files must contain an equal number of numbers
       
-     -One of the binary search trees will consist of numbers read from the file named benim and
-      the other will consist of numbers read from the file named rakip
+     -One of the binary search trees will consist of numbers read from the file named benim and the other will
+      consist of numbers read from the file named rakip
      
      -Each node has a variable named soy_sayisi, and counts the number of all nodes under the node that can be 
       reached from the node
@@ -18,8 +18,9 @@
      -If the soy_sayilari are equals in the round, the root nodes are given to each other and deleted from them
      
      -If the soy_sayilari are not equals in the round, the winning side adds the node with the highest value
-      from the other side's tree to its own tree, and deletes it from the other side's tree. After this operation,
-      the winning side gives the root node of its own tree to the other side's tree and deletes it from its own tree
+      from the other side's tree to its own tree, and deletes it from the other side's tree. After this
+      operation, the winning side gives the root node of its own tree to the other side's tree and deletes it
+      from its own tree
       
      -Equal values can be found in the tree. In this case one of the nodes will be placed on the left
      
